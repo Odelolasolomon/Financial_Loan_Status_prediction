@@ -1,0 +1,11 @@
+Classification algorithms.ipynb
+Loan_Project_Part1.ipynb
+Loan_Project_Part1.pdf
+Loan_Project_Part1.slides.html
+Loan_Project_Part2.ipynb
+Loan_Project_Part2.slides.html
+Loan_df.csv
+README.md
+Untitled.ipynb
+Untitled1.ipynb
+prosperLoanData.csv
